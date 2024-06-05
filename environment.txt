@@ -1,0 +1,13 @@
+langchain-core
+langchain-openai
+langchain-community
+openai
+torch
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+nltk
+transformers
+peft
+argparse
